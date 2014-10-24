@@ -1,4 +1,6 @@
 SimpleComponents
 ================
 
-Simple and quick to the point C++ component system.
+Simple C++ component system.
+
+Nothing fancy, not optimized, definitely not the most performance efficient. Just simple.
